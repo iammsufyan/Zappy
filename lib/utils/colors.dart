@@ -4,7 +4,7 @@ class ZColors {
   ZColors._();
 
   // Basic Colors of app
-  static const Color primary = Color(0xFF28C76F);
+  static const Color primary = Color(0xFF18CB96);
   static const Color secondary = Color(0xFFFFE24B);
   static const Color accent = Color(0xFFB0C7FF);
 
@@ -26,6 +26,7 @@ class ZColors {
   static const Color lightBG = Color(0xFFF6F6F6);
   static const Color dark = Color(0xFF272727);
   static const Color primaryBackground = Color(0xFFF3F5FF);
+  static const Color darkBackground = Color(0xFF373643);
 
   // Background Container Colors
   static Color lightContainer = const Color(0xFFFFFFFF);
